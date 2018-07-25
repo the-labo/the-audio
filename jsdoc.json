@@ -35,7 +35,33 @@
                 "description": "",
                 "parameters": [],
                 "examples": []
-            }
+            },
+            "functions": [
+                {
+                    "name": "close",
+                    "access": "",
+                    "virtual": false,
+                    "description": "Close audio context",
+                    "parameters": [],
+                    "examples": [],
+                    "returns": {
+                        "type": "Promise.<void>",
+                        "description": ""
+                    }
+                },
+                {
+                    "name": "open",
+                    "access": "",
+                    "virtual": false,
+                    "description": "Open audio context",
+                    "parameters": [],
+                    "examples": [],
+                    "returns": {
+                        "type": "Promise.<void>",
+                        "description": ""
+                    }
+                }
+            ]
         }
     ]
 }
