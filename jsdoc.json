@@ -1,0 +1,41 @@
+{
+    "functions": [
+        {
+            "name": "create",
+            "access": "",
+            "virtual": false,
+            "description": "Create a TheAudio instance",
+            "parameters": [
+                {
+                    "name": "args",
+                    "type": "*",
+                    "description": "",
+                    "default": "",
+                    "optional": "",
+                    "nullable": ""
+                }
+            ],
+            "examples": [],
+            "returns": {
+                "type": "TheAudio",
+                "description": ""
+            }
+        }
+    ],
+    "classes": [
+        {
+            "name": "TheAudio",
+            "description": "",
+            "extends": [],
+            "access": "",
+            "virtual": false,
+            "fires": "",
+            "constructor": {
+                "name": "TheAudio",
+                "description": "",
+                "parameters": [],
+                "examples": []
+            }
+        }
+    ]
+}
