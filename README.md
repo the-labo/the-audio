@@ -89,7 +89,7 @@ tryExample().catch((err) => console.error(err))
 API Guide
 -----
 
-+ [the-audio@1.1.2](./doc/api/api.md)
++ [the-audio@1.1.3](./doc/api/api.md)
   + [create(args)](./doc/api/api.md#the-audio-function-create)
   + [TheAudio](./doc/api/api.md#the-audio-class)
 
